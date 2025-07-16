@@ -14,7 +14,6 @@ Este proyecto contiene un laboratorio práctico que simula el uso de backups com
 
 ## 📁 Archivos
 - `backup_restore_laboratorio.sql`: Script completo del laboratorio.
-- `screenshots/`: (Opcional) Capturas del proceso ejecutado en SSMS.
 
 ## 🚀 Cómo usar
 1. Abrí SSMS.
